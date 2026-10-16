@@ -1,32 +1,143 @@
-<h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
-<h3 align="center">Hey, I'm Himanshu 👋 🎓 B.Tech CSE (AI) student | AI enthusiast | Developer not in progress I enjoy building things with code, experimenting with AI, and turning ambitious ideas into real projects. Currently learning how to make machines smarter while trying to debug my own code. ;) ### 🚀 Interests * Artificial Intelligence & Machine Learning * Food Industry :3 * Python & Software Development * Local/Personalized AI * Web Development & UI/UX * Video Editing & Creative Technology ### 🎯 The Mission Build useful things, solve interesting problems, and keep learning until the code works — or it becomes a feature. Want to have my very own cafe in a sweet place and a nice coffee :D --- *Building the future, one questionable commit at a time.* 🚀</h3>
+\<!-- ═══════════════ HERO SECTION ═══════════════ -->
 
-- 🔭 I’m currently working on [Sinpfi my very own Local AI](still in progress)
+\<div align="center">
 
-- 🌱 I’m currently learning **Coding,AI's,Game Designing and Development I am totally crazy about it but yea lets see where it goes**
+\<img src="[https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:071a12,100:00ff88&text=HIMANSHU&fontColor=39FF88&fontSize=65&fontAlignY=38&desc=AI%20ENTHUSIAST%20%7C%20DEVELOPER%20%7C%20DREAMER&descAlignY=58&descSize=14&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&height=220\&color=0:050505,50:071a12,100:00ff88\&text=HIMANSHU\&fontColor=39FF88\&fontSize=65\&fontAlignY=38\&desc=AI%20ENTHUSIAST%20%7C%20DEVELOPER%20%7C%20DREAMER\&descAlignY=58\&descSize=14\&animation=fadeIn)" width="100%" />
 
-- 🤝 I’m looking for help with **Everything T-T**
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=39FF88&center=true&vCenter=true&width=600&lines=Initializing+Himanshu.exe...;Building+intelligent+things+%F0%9F%A4%96;Turning+coffee+into+code+%E2%98%95;Teaching+machines+while+debugging+myself;AI+is+the+plan.+Bugs+are+the+plot](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=17\&duration=3000\&pause=900\&color=39FF88\&center=true\&vCenter=true\&width=600\&lines=Initializing+Himanshu.exe...;Building+intelligent+things+%F0%9F%A4%96;Turning+coffee+into+code+%E2%98%95;Teaching+machines+while+debugging+myself;AI+is+the+plan.+Bugs+are+the+plot)." alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [link expired](link expired)
+\<br/>
 
-- 💬 Ask me about **Food?**
+\<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="360" alt="Anime-style coding atmosphere"/>
 
-- 📫 How to reach me **himo2429@gmail.com**
+\<br/>\<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himocodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himocodes" height="30" width="40" /></a>
-<a href="https://instagram.com/himo_dead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himo_dead" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/himocodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himocodes" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@himo2429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@himo2429" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himo_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himo_codes" height="30" width="40" /></a>
-</p>
+\<a href="[https://github.com/himo-codes](https://github.com/himo-codes)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-himo--codes-0d1117?style=for-the-badge&logo=github&logoColor=39FF88](https://img.shields.io/badge/GitHub-himo--codes-0d1117?style=for-the-badge\&logo=github\&logoColor=39FF88)" />
+\</a>
+\<a href="[https://www.linkedin.com/in/himocodes/](https://www.linkedin.com/in/himocodes/)">
+&#x20; \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF88](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=39FF88)" />
+\</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+\</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himo-codes&show_icons=true&locale=en&layout=compact" alt="himo-codes" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himo-codes&show_icons=true&locale=en" alt="himo-codes" /></p>
+\<!-- ═══════════════ ABOUT ME ═══════════════ -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himo-codes&" alt="himo-codes" /></p>
+\<img align="right" width="155" src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)" alt="Pixel-art computer"/>
+
+## `> whoami`
+
+```yaml
+name: Himanshu
+role: B.Tech CSE (AI) Student
+mindset: Build > Imagine
+interests:
+  - Artificial Intelligence
+  - Local LLMs & AI Agents
+  - Automation & Voice Assistants
+  - Software Development
+currently_building: "My own JARVIS-style AI assistant"
+operating_system: "Windows + caffeine"
+debugging_level: "Character development"
+```
+
+\<br clear="right"/>
+
+> *"I teach machines to think while my code teaches me patience."* 💀
+
+---
+
+\<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+## `> load tech_stack.exe`
+
+\<div align="center">
+
+### Languages
+
+\<img src="[https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark](https://skillicons.dev/icons?i=python,java,js,html,css\&theme=dark)" />
+
+### Tools & Platforms
+
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,linux\&theme=dark)" />
+
+### Currently Exploring
+
+\<img src="[https://img.shields.io/badge/Artificial_Intelligence-0d1117?style=flat-square&logo=probot&logoColor=39FF88](https://img.shields.io/badge/Artificial_Intelligence-0d1117?style=flat-square\&logo=probot\&logoColor=39FF88)" />
+\<img src="[https://img.shields.io/badge/Local_LLMs-0d1117?style=flat-square&logo=ollama&logoColor=39FF88](https://img.shields.io/badge/Local_LLMs-0d1117?style=flat-square\&logo=ollama\&logoColor=39FF88)" />
+\<img src="[https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square&logo=robotframework&logoColor=39FF88](https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square\&logo=robotframework\&logoColor=39FF88)" />
+\<img src="[https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=githubactions&logoColor=39FF88](https://img.shields.io/badge/Automation-0d1117?style=flat-square\&logo=githubactions\&logoColor=39FF88)" />
+
+\</div>
+
+---
+
+\<!-- ═══════════════ CURRENT MISSION ═══════════════ -->
+
+## `> current_mission.log`
+
+\<table>
+\<tr>
+\<td width="60%">
+
+### 🤖 Project: JARVIS
+
+Building a local-first, voice-controlled AI assistant designed to bring intelligent automation to my own PC.
+
+- [ ] Local speech recognition
+- [ ] AI brain & tool calling
+- [ ] Voice interaction
+- [ ] Long-term memory
+- [ ] Secure PC automation
+- [ ] Vision & advanced agents
+
+\<sub>Status: Initial planning phase. The mission begins soon.\</sub>
+
+\</td>
+\<td width="40%" align="center">
+
+\<img src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)" width="220" alt="Anime coding scene"/>
+
+\</td>
+\</tr>
+\</table>
+
+---
+
+\<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+
+## `> system_stats.exe`
+
+\<div align="center">
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=himo-codes&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39FF88&icon_color=39FF88&text_color=c9d1d9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=himo-codes\&show_icons=true\&hide_border=true\&bg_color=0d1117\&title_color=39FF88\&icon_color=39FF88\&text_color=c9d1d9\&rank_icon=github)" />
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=himo-codes&layout=compact&hide_border=true&bg_color=0d1117&title_color=39FF88&text_color=c9d1d9](https://github-readme-stats.vercel.app/api/top-langs/?username=himo-codes\&layout=compact\&hide_border=true\&bg_color=0d1117\&title_color=39FF88\&text_color=c9d1d9)" />
+
+\<br/>
+
+\<img src="[https://streak-stats.demolab.com?user=himo-codes&hide_border=true&background=0D1117&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=39FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888](https://streak-stats.demolab.com?user=himo-codes\&hide_border=true\&background=0D1117\&ring=39FF88\&fire=39FF88\&currStreakLabel=39FF88\&sideLabels=39FF88\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&dates=888888)" />
+
+\<br/>
+
+\<img src="[https://komarev.com/ghpvc/?username=himo-codes&style=for-the-badge&color=0d1117&label=PROFILE+VISITORS](https://komarev.com/ghpvc/?username=himo-codes\&style=for-the-badge\&color=0d1117\&label=PROFILE+VISITORS)" />
+
+\</div>
+
+---
+
+\<!-- ═══════════════ PHILOSOPHY ═══════════════ -->
+
+\<div align="center">
+
+\<img src="[https://capsule-render.vercel.app/api?type=rect&height=100&color=0:00ff88,100:071a12&text=BUILD.%20BREAK.%20LEARN.%20REPEAT.&fontColor=050505&fontSize=23&animation=fadeIn](https://capsule-render.vercel.app/api?type=rect\&height=100\&color=0:00ff88,100:071a12\&text=BUILD.%20BREAK.%20LEARN.%20REPEAT.\&fontColor=050505\&fontSize=23\&animation=fadeIn)" width="100%" />
+
+### `// End of file. The story continues...`
+
+**Thanks for visiting my corner of the internet.** 🌌
+
+\<sub>Made with curiosity, questionable commits, and too much caffeine.\</sub>
+
+\</div>
