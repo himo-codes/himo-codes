@@ -1,142 +1,268 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,20:140A2E,45:3D0066,72:00FF9C,100:050505&text=HIMO%20CODES&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=NOT%20YOUR%20AVERAGE%20README%20%2F%2F%20SYSTEM%20OVERDRIVE&descSize=14&descAlignY=59&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=HIMO%20CODES&fontSize=78&fontColor=00FFB3&stroke=7B2CFF&strokeWidth=2&animation=fadeIn&color=0:030308,25:0B1020,55:210B35,80:061B1A,100:030308&desc=ENGINEERING%20TOMORROW%20FROM%20A%20KEYBOARD&descSize=14&descColor=E6EDF3&descAlignY=72" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1500&pause=450&color=00FF9C&center=true&vCenter=true&width=850&lines=%3E+HIMO+CODES.exe+IS+RUNNING...;%3E+REALITY+IS+JUST+ANOTHER+INTERFACE;%3E+AI+%2B+CODE+%2B+CHAOTIC+CREATIVITY;%3E+BUILDING+THE+FUTURE.+BREAKING+THE+BORING.;%3E+WELCOME+TO+THE+GLITCH." alt="Animated terminal title" />
-
-<br/>
-
-<img align="left" width="23%" src="https://media.giphy.com/media/13HgwGsLFofG0/giphy.gif" alt="Coding animation" />
-
-<img width="48%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" />
-
-<img align="right" width="23%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Retro pixel art animation" />
-
-<br clear="both"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=500&color=00FFB3&center=true&vCenter=true&width=780&lines=%5B+BOOT_SEQUENCE_COMPLETE+%5D;%3E+AI+IS+THE+PLAYGROUND.;%3E+AUTOMATION+IS+THE+SUPERPOWER.;%3E+CODE+IS+THE+WEAPON.;%3E+WELCOME+TO+THE+HIMO+CODES+UNIVERSE." alt="Animated boot sequence" />
 
 <br/>
 
-<a href="https://github.com/himo-codes"><img src="https://img.shields.io/badge/⌘_GITHUB-050505?style=for-the-badge&logo=github&logoColor=00FF9C" /></a>
-<a href="https://linkedin.com/in/himocodes"><img src="https://img.shields.io/badge/↗_LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=7B9CFF" /></a>
-<img src="https://komarev.com/ghpvc/?username=himo-codes&style=for-the-badge&color=7B2CFF&label=YOU+FOUND+ME" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="66%" alt="Developer coding animation" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/REALITY-UNDER_CONSTRUCTION-0A0A0F?style=for-the-badge&logo=github&logoColor=00FFB3" />
+<img src="https://img.shields.io/badge/CREATIVITY-UNRESTRICTED-0A0A0F?style=for-the-badge&logo=thunderstore&logoColor=7B2CFF" />
+<img src="https://komarev.com/ghpvc/?username=himo-codes&style=for-the-badge&color=7B2CFF&label=VISITORS" />
 
 <br/><br/>
 
-`☣ SYSTEM ONLINE`　 `⌘ CURIOSITY: UNSTABLE`　 `⚡ BORING: DELETED`
+[ `GITHUB` ](https://github.com/himo-codes)　//　[ `REPOSITORIES` ](https://github.com/himo-codes?tab=repositories)　//　[ `LINKEDIN` ](https://linkedin.com/in/himocodes)
 
 </div>
 
 ---
 
-<img align="right" width="210" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cyber technology animation" />
+<table>
+<tr>
+<td width="60%" valign="top">
 
-## `// 01 — WHO THE HELL IS HIMO?`
+### `01 // OPERATOR PROFILE`
 
-```python
-class HimoCodes:
-    alias = "HIMO CODES"
-    status = "Student.exe"
-    specialization = ["AI", "Automation", "Software"]
-    personality = "organized chaos"
+**Himo Codes** — CSE (AI) student, developer in progress, and enthusiast of intelligent systems.
 
-    def daily_loop(self):
-        while True:
-            learn()
-            build()
-            break_something()
-            debug()
-            repeat()
+I like the intersection of software, AI, automation, and creative technology. The mission is to move beyond tutorials and build things that solve real problems.
+
+- `CORE INTEREST` Artificial Intelligence
+- `SECONDARY` Automation & Software
+- `AESTHETIC` Cyberpunk / Anime / Sci-fi
+- `CURRENT MODE` Learn → Experiment → Build
+- `LONG GAME` Build useful intelligent systems
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/13HgwGsLFofG0/giphy.gif" width="100%" alt="Retro coding animation" />
+
+**SYSTEM LOG**
+
+```text
+curiosity   : ACTIVE
+creativity  : ACTIVE
+learning    : ONGOING
+next_build  : LOADING...
 ```
 
-**CSE (AI) student. Builder in progress. Permanently curious.**
-
-- 🧠 Into AI, LLMs, and autonomous agents.
-- ⚡ Obsessed with automation and useful tools.
-- 💻 Learning to build software that actually works.
-- 🎴 Anime aesthetics, sci-fi worlds, and late-night ideas.
-- 🧪 Currently collecting skills, not fake achievements.
-
-<br clear="right"/>
-
-<details>
-<summary><b>☠️ THE LORE BEHIND THE TERMINAL</b></summary>
-
-I'm interested in what happens when software engineering, artificial intelligence, and creative thinking collide. I'm learning the fundamentals, experimenting with ideas, and working toward building increasingly capable systems.
-
-The end goal? Less repetitive work. More intelligent tools. Much cooler projects.
-
-</details>
-
----
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FF9C,30:7B2CFF,60:FF3366,100:00FF9C" width="100%" />
-
-## `// 02 — CHARACTER BUILD`
-
-*Choose your skill tree. I want to learn them all.*
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FFB3,45:7B2CFF,100:FF3366" width="100%" />
 
 </div>
 
-<details open>
-<summary>🧠 <b>THE AI LAB — BRAIN.EXE</b></summary>
+## `02 // SKILL MATRIX`
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img align="right" width="155" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Digital sci-fi animation" />
-
-`[ RESEARCH MODE ]`
+### 🧠 Neural Systems
 
 - Large language models
-- AI agents and tool calling
+- AI agents & tool calling
 - Retrieval-Augmented Generation
-- Embeddings and memory systems
-- Voice AI, speech-to-text, and TTS
+- AI memory concepts
+- Speech recognition & TTS
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top">
 
-</details>
+### ⚡ Engineering Systems
 
-<details>
-<summary>⚡ <b>THE AUTOMATION FACTORY — NO MORE BORING TASKS</b></summary>
+- Python automation
+- APIs & integrations
+- Programming fundamentals
+- Web technologies
+- Git & version control
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`[ BUILD MODE ]`
+### 🎮 Creative Systems
 
-- Python scripting
-- APIs and service integrations
-- AI-assisted workflows
-- Repetitive-task automation
-- Debugging and system design
+- Futuristic UI concepts
+- Anime-inspired interfaces
+- Interactive experiences
+- Experimental prototypes
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary>💻 <b>THE CODE FORGE — KEYBOARD GOES BRRR</b></summary>
+### 🔭 Research Queue
 
-<br/>
+- Local-first AI assistants
+- Agent workflows
+- Voice interfaces
+- Practical AI applications
 
-`[ ENGINEERING MODE ]`
+</td>
+</tr>
+</table>
 
-- Python · Java · C · JavaScript
-- HTML · CSS
-- Git · GitHub
-- Web technologies and developer tooling
+<div align="center">
 
-</details>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=700&color=7B2CFF&center=true&vCenter=true&width=650&lines=KNOWLEDGE+IS+THE+REAL+UPGRADE.;BUILD+SMALL.+THINK+BIG.;MAKE+THE+COMPLICATED+USEFUL." alt="Developer philosophy" />
+
+</div>
+
+---
+
+## `03 // EQUIPMENT & TOOLCHAIN`
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" />
+
+**DEVELOPMENT ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,linux&theme=dark" />
+
+**INTEREST AREAS**
+
+<img src="https://img.shields.io/badge/LLMs-EXPLORING-09090F?style=for-the-badge&logo=openai&logoColor=00FFB3" />
+<img src="https://img.shields.io/badge/AI_AGENTS-LEARNING-09090F?style=for-the-badge&logo=probot&logoColor=7B2CFF" />
+<img src="https://img.shields.io/badge/AUTOMATION-BUILDING-09090F?style=for-the-badge&logo=python&logoColor=FFD166" />
+
+</div>
 
 ---
 
 <div align="center">
 
-## `// 03 — WEAPONS EQUIPPED`
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF3366,50:7B2CFF,100:00FFB3" width="100%" />
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,git,github,vscode,nodejs,react,linux&theme=dark&perline=6" />
+## `04 // PROJECT HANGAR`
+
+*Ideas become projects when the code works. This is the direction, not a list of completed builds.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `PROJECT_001`
+
+**Personal AI Assistant**
+
+A long-term exploration of voice interaction, tool use, memory, and local-first workflows.
+
+`VOICE AI` · `AGENTS` · `AUTOMATION`
+
+</td>
+<td width="50%" valign="top">
+
+### `PROJECT_002`
+
+**Workflow Automation Lab**
+
+Experiments in reducing repetitive work with Python, APIs, and intelligent workflows.
+
+`PYTHON` · `APIs` · `AI WORKFLOWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `PROJECT_003`
+
+**Creative Developer Space**
+
+A playground for expressive web interfaces, animated experiences, and futuristic design.
+
+`HTML/CSS` · `JAVASCRIPT` · `UI`
+
+</td>
+<td width="50%" valign="top">
+
+### `PROJECT_004`
+
+**AI Knowledge Systems**
+
+Explore ways to retrieve information, connect context, and build useful AI applications.
+
+`LLMs` · `RAG` · `EMBEDDINGS`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/himo-codes?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ACTUAL_REPOSITORIES-00FFB3?style=for-the-badge&logo=github&logoColor=050505" /></a>
+
+</div>
+
+---
+
+## `05 // LIVE DEVELOPER TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=himo-codes&show_icons=true&hide_border=true&bg_color=050508&title_color=00FFB3&icon_color=7B2CFF&text_color=E6EDF3&rank_icon=github" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himo-codes&layout=compact&hide_border=true&bg_color=050508&title_color=7B9CFF&text_color=E6EDF3" width="41%" alt="Most used languages" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI_AGENTS-LOADING-0B0B0F?style=for-the-badge&logo=probot&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/LLMs-EXPLORING-0B0B0F?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/AUTOMATION-UN
+<img src="https://streak-stats.demolab.com?user=himo-codes&hide_border=true&background=050508&ring=00FFB3&fire=FF3366&currStreakLabel=00FFB3&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="82%" alt="Contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himo-codes&bg_color=050508&color=00FFB3&line=7B2CFF&point=FF3366&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `06 // CHAOS ENGINE`
+
+<img align="left" width="23%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Pixel animation" />
+
+<img align="right" width="23%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Digital technology animation" />
+
+```text
+╭────── HIMO CODES :: KERNEL ──────╮
+│                                  │
+│  [OK] curiosity.sys              │
+│  [OK] creativity.dll             │
+│  [OK] learning.loop              │
+│  [RUNNING] ideas.exe             │
+│  [PENDING] legendary_project     │
+│                                  │
+╰──────────────────────────────────╯
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=600&color=FF3366&center=true&vCenter=true&width=600&lines=LESS+SCROLLING.+MORE+BUILDING.;BREAK+THE+BORING.;MAKE+SOMETHING+REAL." alt="Animated closing message" />
+
+<br clear="both"/>
+
+### `THINK IN SYSTEMS. DREAM IN NEON. BUILD IN REALITY.`
+
+<a href="https://github.com/himo-codes"><img src="https://img.shields.io/badge/FOLLOW_THE_JOURNEY-7B2CFF?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+
+<br/><br/>
+
+<sub>HIMO CODES © — STILL LEARNING. STILL BUILDING. NEVER FINISHED.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:030308,30:210B35,65:061B1A,100:00FFB3" width="100%" />
+
+</div>
