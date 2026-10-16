@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">Hey, I'm Himanshu 👋 🎓 B.Tech CSE (AI) student | AI enthusiast | Developer not in progress I enjoy building things with code, experimenting with AI, and turning ambitious ideas into real projects. Currently learning how to make machines smarter while trying to debug my own code. ;) ### 🚀 Interests * Artificial Intelligence & Machine Learning * Food Industry :3 * Python & Software Development * Local/Personalized AI * Web Development & UI/UX * Video Editing & Creative Technology ### 🎯 The Mission Build useful things, solve interesting problems, and keep learning until the code works — or it becomes a feature. Want to have my very own cafe in a sweet place and a nice coffee :D --- *Building the future, one questionable commit at a time.* 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himo-codes&label=Profile%20views&color=0e75b6&style=flat" alt="himo-codes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himo-codes" alt="himo-codes" /></a> </p>
-
 - 🔭 I’m currently working on [Sinpfi my very own Local AI](still in progress)
 
 - 🌱 I’m currently learning **Coding,AI's,Game Designing and Development I am totally crazy about it but yea lets see where it goes**
