@@ -1,22 +1,23 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=HIMO%20CODES&fontSize=78&fontColor=00FFB3&stroke=7B2CFF&strokeWidth=2&animation=fadeIn&color=0:030308,25:0B1020,55:210B35,80:061B1A,100:030308&desc=ENGINEERING%20TOMORROW%20FROM%20A%20KEYBOARD&descSize=14&descColor=E6EDF3&descAlignY=72" />
+<a href="https://github.com/himo-codes">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,25:10102A,55:29104A,80:063D31,100:050505&text=HIMO%20CODES&fontSize=78&fontColor=EFFFF8&fontAlignY=38&desc=BUILDING%20AT%20THE%20INTERSECTION%20OF%20AI%20%26%20CODE&descSize=12&descAlignY=61&animation=fadeIn" alt="Himo Codes banner" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=500&color=00FFB3&center=true&vCenter=true&width=780&lines=%5B+BOOT_SEQUENCE_COMPLETE+%5D;%3E+AI+IS+THE+PLAYGROUND.;%3E+AUTOMATION+IS+THE+SUPERPOWER.;%3E+CODE+IS+THE+WEAPON.;%3E+WELCOME+TO+THE+HIMO+CODES+UNIVERSE." alt="Animated boot sequence" />
-
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="66%" alt="Developer coding animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=650&color=00F5A0&center=true&vCenter=true&width=720&lines=AI+%2F%2F+AUTOMATION+%2F%2F+SOFTWARE;Curiosity+is+my+runtime.;Building+ideas+into+working+systems.;Currently+in+my+builder+era." alt="Animated introduction" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/REALITY-UNDER_CONSTRUCTION-0A0A0F?style=for-the-badge&logo=github&logoColor=00FFB3" />
-<img src="https://img.shields.io/badge/CREATIVITY-UNRESTRICTED-0A0A0F?style=for-the-badge&logo=thunderstore&logoColor=7B2CFF" />
-<img src="https://komarev.com/ghpvc/?username=himo-codes&style=for-the-badge&color=7B2CFF&label=VISITORS" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer coding animation" />
+
+<br/>
+
+<a href="https://github.com/himo-codes?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-00F5A0?style=for-the-badge&logo=github&logoColor=050505" alt="Explore projects" /></a>
+<a href="https://linkedin.com/in/himocodes"><img src="https://img.shields.io/badge/CONNECT-15151F?style=for-the-badge&logo=linkedin&logoColor=9D8CFF" alt="LinkedIn" /></a>
 
 <br/><br/>
 
-[ `GITHUB` ](https://github.com/himo-codes)　//　[ `REPOSITORIES` ](https://github.com/himo-codes?tab=repositories)　//　[ `LINKEDIN` ](https://linkedin.com/in/himocodes)
+`INDEPENDENT THINKING`　·　`INTENTIONAL BUILDING`　·　`CONTINUOUS LEARNING`
 
 </div>
 
@@ -24,32 +25,37 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-### `01 // OPERATOR PROFILE`
+### `01 / THE OPERATOR`
 
-**Himo Codes** — CSE (AI) student, developer in progress, and enthusiast of intelligent systems.
+Hey, I'm **Himo** — a B.Tech CSE (AI) student interested in building at the intersection of software, intelligent systems, and automation.
 
-I like the intersection of software, AI, automation, and creative technology. The mission is to move beyond tutorials and build things that solve real problems.
+I enjoy figuring out how things work, experimenting with ideas, and turning concepts into practical tools.
 
-- `CORE INTEREST` Artificial Intelligence
-- `SECONDARY` Automation & Software
-- `AESTHETIC` Cyberpunk / Anime / Sci-fi
-- `CURRENT MODE` Learn → Experiment → Build
-- `LONG GAME` Build useful intelligent systems
+- 🧠 Exploring AI and LLMs
+- ⚙️ Learning automation and API integrations
+- 🤖 Interested in AI agents and voice interfaces
+- 💻 Improving my engineering fundamentals
+- 🎨 Into cyberpunk aesthetics and thoughtful UI
+
+**My mindset:** understand the system, build the solution, improve the details.
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="42%" valign="top">
 
 <img src="https://media.giphy.com/media/13HgwGsLFofG0/giphy.gif" width="100%" alt="Retro coding animation" />
 
-**SYSTEM LOG**
-
 ```text
-curiosity   : ACTIVE
-creativity  : ACTIVE
-learning    : ONGOING
-next_build  : LOADING...
+himo@afterdark:~$ whoami
+
+builder_in_progress
+
+himo@afterdark:~$ status
+
+curiosity   [ONLINE]
+creativity  [ONLINE]
+projects    [EVOLVING]
 ```
 
 </td>
@@ -58,211 +64,151 @@ next_build  : LOADING...
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00FFB3,45:7B2CFF,100:FF3366" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5A0,50:9D8CFF,100:FF4D8D" width="100%" />
 
 </div>
 
-## `02 // SKILL MATRIX`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Neural Systems
-
-- Large language models
-- AI agents & tool calling
-- Retrieval-Augmented Generation
-- AI memory concepts
-- Speech recognition & TTS
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Engineering Systems
-
-- Python automation
-- APIs & integrations
-- Programming fundamentals
-- Web technologies
-- Git & version control
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Creative Systems
-
-- Futuristic UI concepts
-- Anime-inspired interfaces
-- Interactive experiences
-- Experimental prototypes
-
-</td>
-<td width="50%" valign="top">
-
-### 🔭 Research Queue
-
-- Local-first AI assistants
-- Agent workflows
-- Voice interfaces
-- Practical AI applications
-
-</td>
-</tr>
-</table>
+## `02 / THE TECH STACK`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=1800&pause=700&color=7B2CFF&center=true&vCenter=true&width=650&lines=KNOWLEDGE+IS+THE+REAL+UPGRADE.;BUILD+SMALL.+THINK+BIG.;MAKE+THE+COMPLICATED+USEFUL." alt="Developer philosophy" />
-
-</div>
-
----
-
-## `03 // EQUIPMENT & TOOLCHAIN`
-
-<div align="center">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" />
-
-**DEVELOPMENT ENVIRONMENT**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,linux&theme=dark" />
-
-**INTEREST AREAS**
-
-<img src="https://img.shields.io/badge/LLMs-EXPLORING-09090F?style=for-the-badge&logo=openai&logoColor=00FFB3" />
-<img src="https://img.shields.io/badge/AI_AGENTS-LEARNING-09090F?style=for-the-badge&logo=probot&logoColor=7B2CFF" />
-<img src="https://img.shields.io/badge/AUTOMATION-BUILDING-09090F?style=for-the-badge&logo=python&logoColor=FFD166" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF3366,50:7B2CFF,100:00FFB3" width="100%" />
-
-## `04 // PROJECT HANGAR`
-
-*Ideas become projects when the code works. This is the direction, not a list of completed builds.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `PROJECT_001`
-
-**Personal AI Assistant**
-
-A long-term exploration of voice interaction, tool use, memory, and local-first workflows.
-
-`VOICE AI` · `AGENTS` · `AUTOMATION`
-
-</td>
-<td width="50%" valign="top">
-
-### `PROJECT_002`
-
-**Workflow Automation Lab**
-
-Experiments in reducing repetitive work with Python, APIs, and intelligent workflows.
-
-`PYTHON` · `APIs` · `AI WORKFLOWS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `PROJECT_003`
-
-**Creative Developer Space**
-
-A playground for expressive web interfaces, animated experiences, and futuristic design.
-
-`HTML/CSS` · `JAVASCRIPT` · `UI`
-
-</td>
-<td width="50%" valign="top">
-
-### `PROJECT_004`
-
-**AI Knowledge Systems**
-
-Explore ways to retrieve information, connect context, and build useful AI applications.
-
-`LLMs` · `RAG` · `EMBEDDINGS`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/himo-codes?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ACTUAL_REPOSITORIES-00FFB3?style=for-the-badge&logo=github&logoColor=050505" /></a>
-
-</div>
-
----
-
-## `05 // LIVE DEVELOPER TELEMETRY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=himo-codes&show_icons=true&hide_border=true&bg_color=050508&title_color=00FFB3&icon_color=7B2CFF&text_color=E6EDF3&rank_icon=github" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himo-codes&layout=compact&hide_border=true&bg_color=050508&title_color=7B9CFF&text_color=E6EDF3" width="41%" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=himo-codes&hide_border=true&background=050508&ring=00FFB3&fire=FF3366&currStreakLabel=00FFB3&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="82%" alt="Contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himo-codes&bg_color=050508&color=00FFB3&line=7B2CFF&point=FF3366&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## `06 // CHAOS ENGINE`
-
-<img align="left" width="23%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Pixel animation" />
-
-<img align="right" width="23%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Digital technology animation" />
-
-```text
-╭────── HIMO CODES :: KERNEL ──────╮
-│                                  │
-│  [OK] curiosity.sys              │
-│  [OK] creativity.dll             │
-│  [OK] learning.loop              │
-│  [RUNNING] ideas.exe             │
-│  [PENDING] legendary_project     │
-│                                  │
-╰──────────────────────────────────╯
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=600&color=FF3366&center=true&vCenter=true&width=600&lines=LESS+SCROLLING.+MORE+BUILDING.;BREAK+THE+BORING.;MAKE+SOMETHING+REAL." alt="Animated closing message" />
-
-<br clear="both"/>
-
-### `THINK IN SYSTEMS. DREAM IN NEON. BUILD IN REALITY.`
-
-<a href="https://github.com/himo-codes"><img src="https://img.shields.io/badge/FOLLOW_THE_JOURNEY-7B2CFF?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<sub>LANGUAGES & FOUNDATIONS</sub>
 
 <br/><br/>
 
-<sub>HIMO CODES © — STILL LEARNING. STILL BUILDING. NEVER FINISHED.</sub>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" alt="Programming languages" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:030308,30:210B35,65:061B1A,100:00FFB3" width="100%" />
+<br/><br/>
+
+<sub>TOOLS & DEVELOPMENT</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,react,linux&theme=dark" alt="Development tools" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 — INTELLIGENCE**
+
+`LLMs` `AI AGENTS` `RAG`
+
+Exploring how AI systems understand context, retrieve information, and use tools.
+
+</td>
+<td width="50%" valign="top">
+
+**02 — AUTOMATION**
+
+`PYTHON` `APIs` `WORKFLOWS`
+
+Learning to turn repetitive tasks into useful, reliable systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 — ENGINEERING**
+
+`JAVA` `JAVASCRIPT` `GIT`
+
+Strengthening programming fundamentals and software development skills.
+
+</td>
+<td width="50%" valign="top">
+
+**04 — INTERACTION**
+
+`VOICE AI` `TTS` `UI`
+
+Exploring more natural ways for people to interact with technology.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `03 / THE WORKSHOP`
+
+*The best profile isn't the one with the most badges. It's the one with things worth exploring.*
+
+</div>
+
+<details open>
+<summary><b>◈ Personal AI assistant — long-term exploration</b></summary>
+
+A future project exploring voice interaction, local-first processing, AI tool use, and contextual memory.
+
+`AI` · `PYTHON` · `VOICE INTERFACES`
+
+</details>
+
+<details>
+<summary><b>◈ Automation experiments</b></summary>
+
+Small tools and workflows designed to reduce repetitive work and make everyday tasks easier.
+
+`PYTHON` · `APIs` · `INTEGRATIONS`
+
+</details>
+
+<details>
+<summary><b>◈ Creative developer experiments</b></summary>
+
+A playground for expressive interfaces, web experiences, and futuristic visual design.
+
+`HTML` · `CSS` · `JAVASCRIPT`
+
+</details>
+
+<div align="center">
+
+<a href="https://github.com/himo-codes?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-9D8CFF?style=for-the-badge&logo=github&logoColor=050505" alt="View repositories" /></a>
+
+</div>
+
+---
+
+## `04 / LIVE TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=himo-codes&show_icons=true&hide_border=true&bg_color=08080D&title_color=00F5A0&icon_color=9D8CFF&text_color=E6EDF3&rank_icon=github" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himo-codes&layout=compact&hide_border=true&bg_color=08080D&title_color=9D8CFF&text_color=E6EDF3" width="41%" alt="Most used languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=himo-codes&hide_border=true&background=08080D&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="80%" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="230" alt="Retro pixel animation" />
+
+### `05 / END OF TRANSMISSION`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2300&pause=700&color=00F5A0&center=true&vCenter=true&width=600&lines=Stay+curious.;Build+something+useful.;Make+the+details+matter.;Then+make+it+better." alt="Closing message" />
+
+<br/>
+
+**Thanks for stopping by. Have a look around.**
+
+<a href="https://github.com/himo-codes?tab=repositories">Repositories</a>　·　<a href="https://linkedin.com/in/himocodes">LinkedIn</a>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050505,35:21103A,70:063D31,100:050505" alt="Footer banner" />
+
+<sub>HIMO CODES / DESIGNED FOR THE LONG GAME.</sub>
 
 </div>
