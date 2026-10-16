@@ -59,5 +59,16 @@
 **BUILD. BREAK. LEARN. REPEAT.** ⚡
 
 <sub>End of file. The story continues...</sub>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:062a19,100:020403&height=120&section=footer&text=BUILD.%20BREAK.%20LEARN.%20REPEAT.&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Neon green footer"/>
+
+<code>while(alive) { learn(); build(); improve(); }</code>
+
+<br/>
+
+*“The future is something we build ourselves.”*
+
+</div>
 
 </div>
