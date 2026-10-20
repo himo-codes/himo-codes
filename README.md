@@ -201,6 +201,23 @@ Legendary status: STILL GRINDING
 <img src="https://streak-stats.demolab.com?user=himo-codes&hide_border=true&background=08080D&ring=00F5A0&fire=FF4D8D&currStreakLabel=00F5A0&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="80%" alt="GitHub contribution streak" />
 
 </div>
+🐍 The commit dimension
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=700&color=00F5A0&center=true&vCenter=true&width=650&height=35&lines=EVERY+SQUARE+TELLS+A+STORY.;SMALL+COMMITS.+BIG+IDEAS.;PROGRESS+IS+THE+REAL+HIGH+SCORE." alt="Animated commit dimension heading" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+<br/>
+
+<sub>🟢 Every contribution is a step forward. Keep experimenting. Keep shipping.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5A0,50:9D8CFF,100:FF4D8D" width="100%" alt="Neon gradient divider" />
+
+</div>
 
 ---
 
